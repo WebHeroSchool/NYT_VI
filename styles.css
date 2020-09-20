@@ -1,0 +1,27 @@
+.menu {
+  font-family: Helvetica;
+}
+
+.newspaper__title {
+  font-family: Arial;
+  text-align: center;
+}
+
+.menu__item {
+  font-family: Helvetica;
+}
+
+.article {
+  font-family: Helvetica;
+}
+
+.article__title {
+  font-family: Helvetica;
+}
+
+.artocle__description {
+  font-family: Arial;
+}
+.article__main {
+  font-family: Arial;
+}
